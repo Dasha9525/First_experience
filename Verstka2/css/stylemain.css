@@ -1,0 +1,186 @@
+body{
+   padding: 0;
+   margin: 0;
+   color: 000;
+   font-family: "Segoe Print";
+}
+.header{
+   background-color: rgba(132,162,149,0.4);
+}
+.nav{
+   background-color: #FBF5F1;
+   height: 80px;
+   display: flex;
+}
+.sslk{
+   padding-left: 300px;
+   padding-top: 20px;
+}
+h1,h2,h3{
+   padding: 0;
+   margin: 0;
+   text-transform: uppercase;
+   text-align: center;
+}
+ul,li{
+   display: block;
+}
+.container{
+   width: 1200px;  
+   /* позиционирование по центру */
+   margin: 0 auto;
+}
+
+.mainh1{
+   margin-top: 20px;
+   height: 120px;
+   background-color: rgba(251, 245, 241, 0.35);
+}
+.mainpage{
+   background: url('../img/glaza.png') no-repeat center top;
+}
+.rose{
+   background-color: #EFE7E6;
+   padding-bottom: 60px;
+   padding-top: 100px;
+}
+.grey{
+   background-color: #A2A2A2;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.dark{
+   background-color: #84A295;
+   padding-bottom: 40px;
+}
+.green{
+   background-color:  rgba(132,162,149,0.4);
+   padding-bottom: 100px;
+   text-transform: uppercase;
+   padding-top: 100px;
+   font-size: 20px;
+   text-transform: uppercase;
+}
+.h3{
+   width: 300px;
+   height: 60px;
+   margin-left: 60px;
+   font-size: 27px;
+}
+#roseh3{
+   background-color: #C6A7A7;
+}
+#greenh3{
+   background-color: #84A295;
+}
+.footer{
+   background-color: #394141;
+   color: #858383;
+   font-size: 22px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   text-align: center;
+}
+h1{
+   color: #394141;
+   font-size: 60px;
+}
+h2{
+   color: #FFFFFF;
+   font-size: 28px;
+}
+.about{
+   width: 500px;
+   padding-left: 20px;
+   padding-top: 20px;
+   font-size: 21px;
+   text-align: justify;
+}
+header a:link{
+   color: rgba(41, 45, 44, 0.5);
+}
+header a:visited{
+   color: rgba(41, 45, 44, 1);
+}
+header a:hover{
+   color: rgba(41, 45, 44, 1);
+   background-color: rgba(188, 143, 143, 0.39);
+}
+.menu{
+   display: flex;
+}
+.menu li a{
+   text-decoration: none;
+   font-size: 24px;
+   margin-right: 50px;
+}
+#sw{
+   font-size: 20px;
+   text-transform: uppercase;
+   padding-right: 90px;
+   padding-left: 40px;
+   color: rgb(96, 103, 102);
+}
+.rose img{
+   padding-top: 20px;
+   margin-left: auto;
+   height: 600px;
+}
+.inrose{
+   display: flex;
+   align-items: center;
+}
+.letsgo{
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+.spisok{
+   font-size: 20px;
+   font-weight: bold;
+   text-transform: uppercase;
+   line-height: 190%;
+}
+.pic1{
+   display: flex;
+   height: 150px;
+   padding-top: 50px;
+   padding-left: 20px;
+   
+}
+h3{
+   font-size: 30px;
+   color:#FFFFFF;}
+#darkh3{
+   padding-top: 110px;
+}
+.pic2{
+   display: flex;
+   height: 300px;
+   padding-top: 50px;
+   padding-left: 20px;
+}
+.pic3{
+   text-align: center;
+   height: 150px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-top: 50px;
+   padding-left: 20px;
+   background-color: #EFE7E6;
+   font-size: 24px;
+}
+.p1,.p2{
+   width: 600px;
+   background-color: #EFE7E6;
+   padding-left: 60px;
+   margin-left: 50px;
+   font-size: 24px;
+   text-align: center;
+}
+.p1{
+   padding-left: 20px;
+   height: 100px;
+}
+.p2{
+   height: 300px;
+}
